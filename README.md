@@ -1,2 +1,2 @@
-# ZONE-H-GRABBER-IP-DOMAIN
-GRABBER IP / DOMAIN FROM ZONE-H
+# zone-H-grabber
+grabber ip / domain
